@@ -1,0 +1,19 @@
+name: grupa3
+analytics: {}
+content_rating:
+  adult: false
+github: true
+opengraph: {}
+title: grupa 3
+author: {}
+color:
+  lightness: 0.2416966457948314
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+  saturation: 0.5963640302876858
+  brandStrength: 0.8671001335296548
+  rhythmicContrast: 0.6478525594919576
